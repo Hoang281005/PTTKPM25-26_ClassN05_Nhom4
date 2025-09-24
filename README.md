@@ -25,8 +25,7 @@ Dự án **Hệ thống quản lý hiệu sách trực tuyến** được xây d
 - **Nguyễn Huy Hoàng** – MSSV: 23010143  
 
 ## 📸 Demo giao diện
-*(Thêm ảnh chụp màn hình giao diện tại đây)*  
-Ví dụ: ![Trang chủ](./images/homepage.png)
+
 
 ## 🚀 Cách chạy dự án
 1. Clone repo:
