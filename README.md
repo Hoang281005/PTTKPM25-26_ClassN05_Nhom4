@@ -31,4 +31,4 @@ Ví dụ: ![Trang chủ](./images/homepage.png)
 ## 🚀 Cách chạy dự án
 1. Clone repo:
    ```bash
-   git clone https://github.com/<username>/<repository>.git
+   git clone https://github.com/Hoang281005/PTTKPM25-26_ClassN05_Nhom6.git
