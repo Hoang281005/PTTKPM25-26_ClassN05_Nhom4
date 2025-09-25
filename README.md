@@ -23,6 +23,7 @@ Dự án **Hệ thống quản lý hiệu sách trực tuyến** được xây d
 ## 👨‍💻 Nhóm thực hiện
 - **Nguyễn Tuấn Thành** – MSSV: 230101626  
 - **Nguyễn Huy Hoàng** – MSSV: 23010143  
+- **Đoàn Phan Tiến Dũng** – MSSV: 21012861 
 
 ## 📸 Demo giao diện
 
