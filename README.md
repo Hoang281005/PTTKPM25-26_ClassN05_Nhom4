@@ -16,7 +16,7 @@ Dự án **Hệ thống quản lý hiệu sách trực tuyến** được xây d
 
 ## 🖥️ Công nghệ sử dụng
 - **Backend:** PHP Laravel.  
-- **Frontend:** HTML, CSS, JavaScript (hoặc có thể dùng Blade/TailwindCSS)
+- **Frontend:** HTML, CSS, JavaScript (hoặc có thể dùng Blade/TailwindCSS).
 - **Cơ sở dữ liệu:** MySQL
 - **Công cụ quản lý mã nguồn:** Git & GitHub  
 
