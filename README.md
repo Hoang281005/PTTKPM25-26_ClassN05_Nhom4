@@ -15,9 +15,9 @@ Dự án **Hệ thống quản lý hiệu sách trực tuyến** được xây d
 - 🛠️ Quản lý sách (thêm, sửa, xóa) dành cho admin.
 
 ## 🖥️ Công nghệ sử dụng
-- **Backend:** PHP Laravel  
-- **Frontend:** HTML, CSS, JavaScript (hoặc có thể dùng Blade/TailwindCSS)  
-- **Cơ sở dữ liệu:** MySQL  
+- **Backend:** PHP Laravel.  
+- **Frontend:** HTML, CSS, JavaScript (hoặc có thể dùng Blade/TailwindCSS)
+- **Cơ sở dữ liệu:** MySQL
 - **Công cụ quản lý mã nguồn:** Git & GitHub  
 
 ## 👨‍💻 Nhóm thực hiện
