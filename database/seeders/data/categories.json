@@ -1,0 +1,32 @@
+[
+    {
+        "category_id": 1,
+        "category_name": "Sách Giáo Khoa",
+        "created_at": "2025-06-18T10:45:59.000000Z",
+        "updated_at": "2025-06-18T10:45:59.000000Z"
+    },
+    {
+        "category_id": 2,
+        "category_name": "Sách Thiếu Nhi",
+        "created_at": "2025-06-18T10:45:59.000000Z",
+        "updated_at": "2025-06-18T10:45:59.000000Z"
+    },
+    {
+        "category_id": 3,
+        "category_name": "Sách Văn Học",
+        "created_at": "2025-06-18T10:45:59.000000Z",
+        "updated_at": "2025-06-18T10:45:59.000000Z"
+    },
+    {
+        "category_id": 4,
+        "category_name": "Thiết Bị Học Tập",
+        "created_at": "2025-06-18T10:45:59.000000Z",
+        "updated_at": "2025-06-18T10:45:59.000000Z"
+    },
+    {
+        "category_id": 5,
+        "category_name": "Vật Phẩm & Lưu Niệm",
+        "created_at": "2025-06-18T10:53:37.000000Z",
+        "updated_at": "2025-06-18T10:53:37.000000Z"
+    }
+]
