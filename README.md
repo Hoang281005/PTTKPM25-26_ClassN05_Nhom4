@@ -1,5 +1,12 @@
 # 📚 HỆ THỐNG QUẢN LÝ HIỆU SÁCH TRỰC TUYẾN
 
+## 👨‍💻 Nhóm thực hiện
+| Thành viên nhóm       | Mã sinh viên |  Đóng góp |
+|-----------------------|--------------|-----------|
+| Nguyễn Tuấn Thành     | 23010626     |  110%     |
+| Nguyễn Huy Hoàng      | 23010143     |  100%     |
+| Đoàn Phan Tiến Dũng   | 21012861     |  30%      |
+
 ## 🌟 Giới thiệu
 Dự án **Hệ thống quản lý hiệu sách trực tuyến** được xây dựng nhằm hỗ trợ:
 - Người dùng dễ dàng tìm kiếm và mua sách trực tuyến.
